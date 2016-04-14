@@ -1,0 +1,6 @@
+City,Dataset,Type,URL,Note
+Jakarta,Qlue report,JSON,http://services.qluein.org/qluein_marker_v3.php,Served as HTML
+Jakarta,Pintu Air,JSON,http://api.jakarta.go.id/apijakgo/tests/pintuair.php,Served as HTML
+Jakarta,Waze,JSON,http://waze.terralogiq.net/feeder/last.json,Parse URL
+Jakarta,Flood gauges,JSON,https://petajakarta.org/banjir/data/api/v2/infrastructure/floodgauges?format=topojson,TopoJSON
+Jakarta,Halte,JSON,http://services.qluein.org/qlue_street/mobile_all_halte_trans.php,Served as HTML
